@@ -1,0 +1,7 @@
+scene\ 1/source/*
+!scene\ 1/source/source.*
+
+scene\ 3/source/*
+!scene\ 3/source/source.*
+
+
